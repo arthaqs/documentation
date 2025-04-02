@@ -8,4 +8,4 @@ Example:
 3. How to turn off annoying message in IrfanView when you reach end of the folder.
 etc...
 
-TEST2
+TEST3
