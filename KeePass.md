@@ -8,6 +8,5 @@ The password is hashed the number of times the number in `iterations` field appe
 Example: If your password is 15 characters, contains number, special character, uppercase/lowercase letters, it will take $10^{22}$ years years to crack it - which is 10 sextillion years - or about 724 trillion times the current age of the universe. It's most probably not crackable by current quantum computers.
 
 
-2. Auto-fill forms in web:
-   ![[keepass-auto-type.png|212x95]]
+2. Auto-fill forms in web: ![Keepass Auto-Type option](Attachments/keepass-auto-type.png)
 
