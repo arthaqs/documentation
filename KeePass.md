@@ -9,5 +9,5 @@ Example: If your password is 15 characters, contains number, special character, 
 
 
 2. Auto-fill forms in web:
-   ![Alt Text](images/Pasted image 20250327200321.png)
+   ![Alt Text](images/keepass-config.png)
 
