@@ -1,5 +1,5 @@
 - download Syncthing for docker on NAS
-- mount obsidian folder in the docker in nas (in NAS GUI)	  ![[Pasted image 20241020170923.png]]
-- go to synthing app and add the folder  ![[Pasted image 20241020171105.png]]
+- mount obsidian folder in the docker in nas (in NAS GUI)	  ![[syncthing-config.png]]
+- go to synthing app and add the folder  ![[syncthing-nas.png]]
 - also add the sync with phone
 - setup your android app
