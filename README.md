@@ -7,3 +7,5 @@ Example:
 2. How to configure KeePass so nobody can brute-force it.
 3. How to turn off annoying message in IrfanView when you reach end of the folder.
 etc...
+
+TEST
